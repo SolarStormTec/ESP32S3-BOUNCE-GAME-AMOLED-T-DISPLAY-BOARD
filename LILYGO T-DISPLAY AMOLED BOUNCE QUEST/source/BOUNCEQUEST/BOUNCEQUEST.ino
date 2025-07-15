@@ -11,7 +11,7 @@ const int initialPaddleWidth = 180;
 const int paddleHeight = 5; 
 int paddleX, paddleWidth; 
 const int paddleY = 530; 
-const int ballRadius = 3; 小球半径
+const int ballRadius = 3; // 小球半径
 int score = 0; //游戏内得分
 int highScore = 0; //最高得分
 bool gameActive = false; //标志
